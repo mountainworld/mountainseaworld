@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.27e92784.css",
-    "main.js": "./static/js/main.02517d36.js",
+    "main.js": "./static/js/main.efa94734.js",
     "static/js/563.db239546.chunk.js": "./static/js/563.db239546.chunk.js",
     "static/js/27.b633fae2.chunk.js": "./static/js/27.b633fae2.chunk.js",
     "static/js/299.2cab19f5.chunk.js": "./static/js/299.2cab19f5.chunk.js",
@@ -11,7 +11,9 @@
     "static/media/second-bg.png": "./static/media/second-bg.1f08c883f2d989a851f8.png",
     "static/media/staking-banner.png": "./static/media/staking-banner.d1a3ebc21d0c645ae4ca.png",
     "static/media/box-2.mp4": "./static/media/box-2.194518d747e1c3b82e31.mp4",
+    "static/media/home-video-banner.png": "./static/media/home-video-banner.9b9c2c6987712d28d870.png",
     "static/media/store-bg.png": "./static/media/store-bg.c8b14bcea5693ef45bf5.png",
+    "static/media/box-video-banner.png": "./static/media/box-video-banner.3da022f48ec23ee379dd.png",
     "static/media/market-banner.png": "./static/media/market-banner.d7290688f7c7cc1a38df.png",
     "static/media/box-bg.png": "./static/media/box-bg.2512034eb8db58092adb.png",
     "static/media/box-1.mp4": "./static/media/box-1.fed954e14014fc8f00ee.mp4",
@@ -36,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.27e92784.css",
-    "static/js/main.02517d36.js"
+    "static/js/main.efa94734.js"
   ]
 }
